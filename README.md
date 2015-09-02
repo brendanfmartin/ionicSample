@@ -24,12 +24,19 @@ bower install
 
 
 ##Build
+###iOS
 ```
 ionic platform add ios
 ionic build ios
 ```
 
 ##Run
+###iOS
 ```
 ionic emulate ios
+```
+
+###Web
+```
+ionic serve
 ```
